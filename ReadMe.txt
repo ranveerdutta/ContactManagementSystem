@@ -1,4 +1,4 @@
-# Symantec Coding Assignment
+# ### Coding Assignment
 
 This project is developed using below platform/libraries:
 - Windows 10
